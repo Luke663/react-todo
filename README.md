@@ -45,7 +45,7 @@ To use the application, you can either go [here](https://luke663.github.io/react
   - Open a command terminal
   - Go to the directory on your computer where you wish to put the repository.
   - Run the commands:
-    - git clone https://github.com/Luke663/react-todo
+    - git clone https\://github.com/Luke663/react-todo
     - cd react-todo
     - npm install
 - Run the application.
